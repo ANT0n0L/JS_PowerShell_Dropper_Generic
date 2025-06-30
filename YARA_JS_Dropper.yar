@@ -1,4 +1,4 @@
-rule JS_PowerShell_Dropper_Generic
+Rule JS_PowerShell_Dropper_Generic
 {
     meta:
         description = "Generic JavaScript/HTA PowerShell dropper using ActiveX and obfuscated download technique"
